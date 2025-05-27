@@ -9,9 +9,6 @@
 $ git init
 在 /Users/skills/Projects/recipe-repository/.git/中初始化空 Git 存储库
 `` &quot;
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-``javascript javascript 的缩写
+``javascript
 var myVar = “你好,世界!”;
 `` &quot;
-var myVar = "Hello, world!";
